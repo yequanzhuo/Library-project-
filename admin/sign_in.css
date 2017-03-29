@@ -1,0 +1,32 @@
+.B{position:absolute;left:0px;top:0px;width:100%;height:100%;background:white;margin:0px;padding:0px;}
+.T{position:absolute;left:40%;top:20%;width:300px;height:170px;background:white;text-align:center;}
+.D{position:absolute;left:40%;top:30%;width:300px;height:350px;background:white;text-align:center;}
+.B10{position:absolute;top:190px;border-radius:10px;overflow:hidden;}
+.B11{position:absolute;top:110px;left:0px;}
+.B12{position:absolute;left:200px;top:110px;margin:0px;padding:0px;}
+.D2{position:absolute;left:40%;top:10px}
+.signup{
+	margin-left: -70px;
+}
+.signin{
+	margin-left: 25px;
+}
+.signup:hover,.signin:hover,.signup:active,.signin:active{
+	opacity: 0.7;
+}
+.slidebar{
+	position: absolute;
+	left: -75px;
+	width: 200px;
+}
+.slider{
+	position: absolute;
+	right: 0px;
+	background-color: #33CCFF;
+	width: 85px;
+	height: 3px;
+}
+.submit:hover,.submit:active{
+	opacity: 0.8;
+	cursor: pointer;
+}
